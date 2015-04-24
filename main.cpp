@@ -1,10 +1,10 @@
 #include <QtWidgets/QApplication>
-#include "BatchReplacer.h"
+#include "BatchRename.h"
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    BatchReplacer w;
+    BatchRename w;
     w.show();
 
     return a.exec();
