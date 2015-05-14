@@ -1,0 +1,8 @@
+*.[oa]
+*.obj
+*.cbp
+*.layout
+*.pro
+ui_*
+Makefile*
+Debug/
